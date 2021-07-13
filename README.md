@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 ## :man_technologist: Arturo Vaine
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturovaine" alt="arturovaine" /> </p>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/arturovaine)](https://github.com/arturovaine)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturovaine/)](https://www.linkedin.com/in/arturovaine/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturo.vaine@gmail.com)](mailto:arturo.vaine@gmail.com)
 
