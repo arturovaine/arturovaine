@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ### Hi there! 
 - 🚀 Web Development student @ Trybe 
+- ⚙️Mechanical Engineer from 🇧🇷
+- 🇬🇧 Fellow LIF-7 @ Royal Academy of Engineering
 
 - ⚡ Fun facts: 
   - Former sleepwalker
