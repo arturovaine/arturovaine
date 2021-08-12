@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturo.vaine@gmail.com)](mailto:arturo.vaine@gmail.com)
 
 - 🚀 Web Development student @ Trybe 
-- ⚙️Mechanical Engineer from 🇧🇷
 - 🇬🇧 Fellow LIF-7 @ Royal Academy of Engineering
 
 - ⚡ Fun facts: 
