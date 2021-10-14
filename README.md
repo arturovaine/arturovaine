@@ -20,13 +20,16 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturo.vaine@gmail.com)](mailto:arturo.vaine@gmail.com)
 
 - 🚀 Web Development student @ Trybe 
+- ⚙️ Bachelor in Mechanical Engineering
 - 🇬🇧 Fellow LIF-7 @ Royal Academy of Engineering
+
 
 - ⚡ Fun facts: 
   - Former sleepwalker
   - Guinness lover 🍺
   - Hitchhiking enthusiast
   - Iceland fan 🇮🇸
+  - 🇮🇹 🇧🇷 Italian-Brazilian
 
 
 ---
