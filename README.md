@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🚀 Web Development student @ Trybe 
 - ⚙️ Bachelor in Mechanical Engineering
-- 🇬🇧 Fellow LIF-7 @ Royal Academy of Engineering
+- 🇬🇧 Fellow LIF-7 Global Programme @ Royal Academy of Engineering
 
 
 - ⚡ Fun facts: 
