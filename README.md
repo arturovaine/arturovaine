@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturovaine/)](https://www.linkedin.com/in/arturovaine/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturo.vaine@gmail.com)](mailto:arturo.vaine@gmail.com)
 
-- 🚀 Web Development student @ Trybe 
-- ⚙️ Bachelor in Mechanical Engineering
-- 🇬🇧 Fellow LIF-7 Global Programme @ Royal Academy of Engineering
+-Web Development student @ Trybe 
+-Bachelor in Mechanical Engineering
+-Fellow LIF-7 Global Programme @ Royal Academy of Engineering
 
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/arturovaine/github-readme-stats)
 
