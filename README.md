@@ -24,9 +24,15 @@ Here are some ideas to get you started:
 -Bachelor in Mechanical Engineering
 
 -Fellow LIF-7 Global Programme @ Royal Academy of Engineering
-
+<!--
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/arturovaine/github-readme-stats)
-
+-->
+<div>
+  <a href="https://github.com/arturovaine">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&langs_count=7&theme=radical"/>
+  </a>
+</div>
 
 - ⚡ Fun facts: 
   - Former sleepwalker
