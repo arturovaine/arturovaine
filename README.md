@@ -15,6 +15,19 @@ Here are some ideas to get you started:
 ## :man_technologist: Arturo Vaine
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arturovaine" alt="arturovaine" /> </p>
 Nullius addictus iurare in verba magistri, — quo me cumque rapit tempestas, deferor hospes.
+
+
+
+https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fora-da-curva-activity-6887410960563245056-9lia
+- TDD
+- Clean architecture
+- Domain Driven Design
+- Orientação a Objetos
+- Programação Funcional
+- Design Patterns.
+- Interpreters/Compilers/Virtual Machines
+
+
 -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturovaine/)](https://www.linkedin.com/in/arturovaine/)
