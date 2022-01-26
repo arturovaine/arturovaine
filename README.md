@@ -50,6 +50,7 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 </div>
 
 -Bachelor in Mechanical Engineering
+
 -Fellow LIF-7 Global Programme @ Royal Academy of Engineering
 
 - ⚡ Fun facts: 
