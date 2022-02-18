@@ -34,10 +34,6 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturo.vaine@gmail.com)](mailto:arturo.vaine@gmail.com)
 
 -Web Development student @ Trybe
-  - Web Fundamentals (done)
-  - Front-end (loading)
-  - Back-end (soon)
-  - Computational Science (soon)
 
 <!--
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/arturovaine/github-readme-stats)
