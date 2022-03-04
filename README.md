@@ -41,6 +41,12 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 
 -Web Development student @ Trybe
 
+-Bachelor in Mechanical Engineering
+
+-Alumni Fellow LIF-7 (2021) Global Programme @ Royal Academy of Engineering
+
+
+
 <!--
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/arturovaine/github-readme-stats)
 -->
@@ -50,11 +56,6 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
   <!--<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&langs_count=7&theme=radical"/>-->
   </a>
 </div>
-
--Bachelor in Mechanical Engineering
-
--Fellow LIF-7 Global Programme @ Royal Academy of Engineering
-
 
 
 ---
