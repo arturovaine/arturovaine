@@ -27,6 +27,12 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 - Design Patterns.
 - Interpreters/Compilers/Virtual Machines
 
+- ⚡ Fun facts: 
+  - Former sleepwalker
+  - Guinness lover 🍺
+  - Hitchhiking enthusiast
+  - Iceland fan 🇮🇸
+  - 🇮🇹 🇧🇷 Italian-Brazilian
 
 -->
 
@@ -49,12 +55,6 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 
 -Fellow LIF-7 Global Programme @ Royal Academy of Engineering
 
-- ⚡ Fun facts: 
-  - Former sleepwalker
-  - Guinness lover 🍺
-  - Hitchhiking enthusiast
-  - Iceland fan 🇮🇸
-  - 🇮🇹 🇧🇷 Italian-Brazilian
 
 
 ---
