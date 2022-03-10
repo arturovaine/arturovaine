@@ -79,8 +79,17 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 </div>
 
 <br><br>
--Bachelor in Mechanical Engineering
+-Graduado em Engenharia Mecânica (UTFPR)
 
--Alumni Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a> (2021) Global Programme @ Royal Academy of Engineering
+-Alumni (intercâmbio) Institut National des Sciences Appliquées (INSA) de Lyon, França
+
+-1o lugar na seleção de bolsistas BRAFITEC/UTFPR (2013)
+
+-Participante do 1o edital Sinapse da Inovação Paraná (2019) para subvenção (até R$ 40k) de projetos de tecnologia
+
+-Alumni Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'>Royal Academy of Engineering</a>
+
+
+<img src='https://saganbionics.files.wordpress.com/2020/10/2019-08-26_metro-jornal_full_1-958409eb464370cffc93c959c423f86-1.png?w=811' width="50%">
 
 ---
