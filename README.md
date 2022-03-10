@@ -87,12 +87,20 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 » 2o lugar <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Equipe Vous), etapa seletiva para competição mundial (2019)<br>
 » 3o lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Equipe Epic), primeiro hackathon de perfumaria (2017)<br>
 » Finalista <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Equipe Hack'nergy), Relacionamento Inteligente com Consumidor (2016)
-
 <br>
 
 <br><br>
 <b>Background geral</b>
  <br><br>
+
+» Analista de Dados no <a href='https://www.iat.pr.gov.br/Noticia/Simepar-vai-agregar-tecnologia-ao-monitoramento-de-barragens'><b>SIMEPAR</b></a> (jul/2019; dez/2021)<br>
+Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
+-<b>Front-end</b> de formulário técnico com ~350 inputs (HTML, JavaScript, CSS);<br>
+-<b>Análise de Dados</b> para suporte de Classificação de Risco;<br>
+-Estruturação de workflow de coleta de dados e suporte na modelagem de banco de dados;<br>
+-Garantia da qualidade de dados de ~880 relatórios e verificação de inconsistências;<br>
+<br>
+ 
 » Graduado em <b>Engenharia Mecânica</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)<br>
 » Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, França<br>
 » 1o lugar na seleção de bolsistas <b>CAPES BRAFITEC/UTFPR</b> (2013)<br>
