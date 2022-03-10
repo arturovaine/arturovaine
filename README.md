@@ -109,6 +109,6 @@ Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
 
 » Participante do 1o edital <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) para subvenção (até R$ 40k) de projetos de tecnologia<br>
 » Alumni <b>Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a></b> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'><b>Royal Academy of Engineering (UK)</b></a><br>
-» Media release (jornal METRO - 26/08/2019) de projeto de P&D de prótese de membro superior:
-<br><br>
+» 1o lugar<b><a href='https://www.premiooziressilva.com/'> Prêmio Ozires Silva</a></b> de Empreendedorismo Sustentável (11a edição), modalidade Pessoa Física (2018)<br>
+<br>
 
