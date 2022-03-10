@@ -84,8 +84,8 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 <br>
 <b>Competições</b>
  <br><br>
-» 3o lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Equipe Epic), primeiro hackathon de perfumaria (2017)<br>
 » 2o lugar <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Equipe Vous), etapa seletiva para competição mundial (2019)<br>
+» 3o lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Equipe Epic), primeiro hackathon de perfumaria (2017)<br>
 » Finalista <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Equipe Hack'nergy), Relacionamento Inteligente com Consumidor (2016)
 
 <br>
