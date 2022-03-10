@@ -51,16 +51,20 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturovaine/)](https://www.linkedin.com/in/arturovaine/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturo.vaine@gmail.com)](mailto:arturo.vaine@gmail.com)
 
--Web Development student @ Trybe
+<b>Web Development Full Stack student @ Trybe</b><br>
 
-<b>Portfolio - Projetos de Front-End (curso Trybe):</b>
+<p align="left">
+  
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
+<br><br>
+<b>Portfolio - Projetos de Front-End (curso Trybe)</b><br>
 
--<a href="https://elite-pie.surge.sh/">Recipes App</a>
+<a href="https://elite-pie.surge.sh/"><b>Recipes App</b></a>
 <br> <b>App de consulta</b> de receitas e drinks, com funções de filtragem, favoritar, marcação de checklist de ingredientes. 
 <br> Aplicação realizada em quarteto, para avaliação de conteúdos de <b>React Hooks</b> e gerenciamento de estado via <b>Context API</b>.
 <br> Conteúdo populado via APIs externas: themealdb.com e thecocktaildb.com
 
--<a href="https://kindly-industry.surge.sh/">Wallet - Expense Tracker</a>
+<a href="https://kindly-industry.surge.sh/"><b>Wallet - Expense Tracker</b></a>
 <br> <b>App CRUD</b> para controle de despesas, com conversão automática de câmbio via API.
 <br> Projeto avaliativo, realizado individualmente, com uso de <b>Redux</b> para gerenciamento de estado.
 <br> Conteúdo populado via conversão por API externa: economia.awesomeapi.com.br/json/all
@@ -77,30 +81,23 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
   <!--<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&langs_count=7&theme=radical"/>-->
   </a>
 </div>
-
-<br><br>
-<b>Background</b>
+<br>
+<b>Competições</b>
  <br><br>
-» Graduado em <b>Engenharia Mecânica</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)
+» 3o lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Equipe Epic), primeiro hackathon de perfumaria (2017)<br>
+» 2o lugar <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Equipe Vous), etapa seletiva para competição mundial (2019)<br>
+» Finalista <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Equipe Hack'nergy), Relacionamento Inteligente com Consumidor (2016)
 
-» Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, França
-
-» 1o lugar na seleção de bolsistas <b>CAPES BRAFITEC/UTFPR</b> (2013)
-
-<br><br>
-
-» 3o lugar Perfumathon O Boticário (equipe Epic), primeiro hackathon de perfumaria (2017)
-
-» 2o lugar Global Legal Hackathon OAB-PR (equipe Vous), etapa seletiva para competição mundial (2019)
-
-» Finalista Hackathon SENDI-COPEL (Equipe Hack'nergy), segmento Relacionamento com clientes COPEL (2016)
+<br>
 
 <br><br>
-
-» Participante do 1o edital <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) para subvenção (até R$ 40k) de projetos de tecnologia
-
-» Alumni <b>Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a></b> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'><b>Royal Academy of Engineering (UK)</b></a>
-
+<b>Background geral</b>
+ <br><br>
+» Graduado em <b>Engenharia Mecânica</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)<br>
+» Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, França<br>
+» 1o lugar na seleção de bolsistas <b>CAPES BRAFITEC/UTFPR</b> (2013)<br>
+» Participante do 1o edital <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) para subvenção (até R$ 40k) de projetos de tecnologia<br>
+» Alumni <b>Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a></b> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'><b>Royal Academy of Engineering (UK)</b></a><br>
 » Media release (jornal METRO - 26/08/2019) de projeto de P&D de prótese de membro superior:
 <br><br>
 
