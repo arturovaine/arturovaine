@@ -79,17 +79,19 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 </div>
 
 <br><br>
--Graduado em Engenharia Mecânica (UTFPR)
+-Graduado em Engenharia Mecânica (<a href='http://www.utfpr.edu.br/'>UTFPR</a>)
 
--Alumni (intercâmbio) Institut National des Sciences Appliquées (INSA) de Lyon, França
+-Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'>INSA</a>) de Lyon, França
 
--1o lugar na seleção de bolsistas BRAFITEC/UTFPR (2013)
+-1o lugar na seleção de bolsistas CAPES BRAFITEC/UTFPR (2013)
 
--Participante do 1o edital Sinapse da Inovação Paraná (2019) para subvenção (até R$ 40k) de projetos de tecnologia
+-Participante do 1o edital <a href='http://portal.sinapsedainovacao.com.br/'>Sinapse da Inovação Paraná</a> (2019) para subvenção (até R$ 40k) de projetos de tecnologia
 
 -Alumni Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'>Royal Academy of Engineering</a>
 
+-Media release (jornal METRO) de projeto de P&D de prótese de membro superior:
+<br><br>
 
-<img src='https://saganbionics.files.wordpress.com/2020/10/2019-08-26_metro-jornal_full_1-958409eb464370cffc93c959c423f86-1.png?w=811' width="50%">
+<img src='https://saganbionics.files.wordpress.com/2020/10/2019-08-26_metro-jornal_full_1-958409eb464370cffc93c959c423f86-1.png?w=811' width="70%">
 
 ---
