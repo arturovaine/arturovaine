@@ -117,5 +117,4 @@ Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
 Modelo 3D conceitual de prótese mioelétrica transradial, projeto realizado via SolidWorks.
  </p>
 
-
----
+<br>
