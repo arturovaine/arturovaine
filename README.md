@@ -56,13 +56,13 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 <b>Portfolio - Projetos de Front-End (curso Trybe):</b>
 
 -<a href="https://elite-pie.surge.sh/">Recipes App</a>
-<br> App de consulta de receitas e drinks, com funções de filtragem, favoritar, marcação de checklist de ingredientes. 
-<br> Aplicação realizada em quarteto, para avaliação de conteúdos de React Hooks e gerenciamento de estado via Context API.
+<br> <b>App de consulta</b> de receitas e drinks, com funções de filtragem, favoritar, marcação de checklist de ingredientes. 
+<br> Aplicação realizada em quarteto, para avaliação de conteúdos de <b>React Hooks</b> e gerenciamento de estado via <b>Context API</b>.
 <br> Conteúdo populado via APIs externas: themealdb.com e thecocktaildb.com
 
 -<a href="https://kindly-industry.surge.sh/">Wallet - Expense Tracker</a>
-<br> App CRUD para controle de despesas, com conversão automática de câmbio via API.
-<br> Projeto avaliativo, realizado individualmente, com uso de Redux para gerenciamento de estado.
+<br> <b>App CRUD</b> para controle de despesas, com conversão automática de câmbio via API.
+<br> Projeto avaliativo, realizado individualmente, com uso de <b>Redux</b> para gerenciamento de estado.
 <br> Conteúdo populado via conversão por API externa: economia.awesomeapi.com.br/json/all
     
 <a href=""></a>
@@ -79,15 +79,15 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 </div>
 
 <br><br>
--Graduado em Engenharia Mecânica (<a href='http://www.utfpr.edu.br/'>UTFPR</a>)
+-Graduado em <b>Engenharia Mecânica</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)
 
--Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'>INSA</a>) de Lyon, França
+-Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, França
 
--1o lugar na seleção de bolsistas CAPES BRAFITEC/UTFPR (2013)
+-1o lugar na seleção de bolsistas <b>CAPES BRAFITEC/UTFPR</b> (2013)
 
--Participante do 1o edital <a href='http://portal.sinapsedainovacao.com.br/'>Sinapse da Inovação Paraná</a> (2019) para subvenção (até R$ 40k) de projetos de tecnologia
+-Participante do 1o edital <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) para subvenção (até R$ 40k) de projetos de tecnologia
 
--Alumni Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'>Royal Academy of Engineering</a>
+-Alumni <b>Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a></b> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'><b>Royal Academy of Engineering (UK)</b></a>
 
 -Media release (jornal METRO - 26/08/2019) de projeto de P&D de prótese de membro superior:
 <br><br>
