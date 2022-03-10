@@ -53,12 +53,15 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 
 -Web Development student @ Trybe
 
--Bachelor in Mechanical Engineering
+<b>Portfolio - Front-End</b>
 
--Alumni Fellow LIF-7 (2021) Global Programme @ Royal Academy of Engineering
+<a href="https://elite-pie.surge.sh/">Recipes App</a>
+  
+<a href="https://kindly-industry.surge.sh/">Wallet - Expense Tracker</a>
+    
+<a href=""></a>
 
-
-
+<br>
 <!--
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/arturovaine/github-readme-stats)
 -->
@@ -69,5 +72,9 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
   </a>
 </div>
 
+<br><br>
+-Bachelor in Mechanical Engineering
+
+-Alumni Fellow LIF-7 (2021) Global Programme @ Royal Academy of Engineering
 
 ---
