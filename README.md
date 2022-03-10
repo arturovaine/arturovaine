@@ -105,7 +105,7 @@ Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
 » Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, França<br>
 » 1o lugar na seleção de bolsistas <b>CAPES BRAFITEC/UTFPR</b> (2013)<br>
 
-<br><b><a href='https://github.com/arturovaine/arturovaine/blob/main/sbionics.md'>Projeto de Desenvolvimento de Prótese Mioelétrica de Membro Superior</a></b><br>
+<br><b>Projeto de Desenvolvimento de Prótese Mioelétrica de Membro Superior<a href='https://github.com/arturovaine/arturovaine/blob/main/sbionics.md'></b> (anexos)</a><br>
 
 » Participante do 1o edital <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) para subvenção (até R$ 40k) de projetos de tecnologia<br>
 » Alumni <b>Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a></b> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'><b>Royal Academy of Engineering (UK)</b></a><br>
