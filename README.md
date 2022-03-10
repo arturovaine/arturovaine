@@ -89,7 +89,7 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 
 -Alumni Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'>Royal Academy of Engineering</a>
 
--Media release (jornal METRO) de projeto de P&D de prótese de membro superior:
+-Media release (jornal METRO - 26/08/2019) de projeto de P&D de prótese de membro superior:
 <br><br>
 
 <img src='https://saganbionics.files.wordpress.com/2020/10/2019-08-26_metro-jornal_full_1-958409eb464370cffc93c959c423f86-1.png?w=811' width="70%">
