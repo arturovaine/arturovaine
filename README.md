@@ -159,7 +159,7 @@ Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
 
 <br><b>Projeto de Desenvolvimento de Prótese Mioelétrica de Membro Superior<a href='https://github.com/arturovaine/arturovaine/blob/main/sbionics.md'></b> (anexos)</a><br>
 
-» Participante do 1º edital <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) para subvenção (até R$ 40k) de projetos de tecnologia<br>
+» Participante do 1º edital <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) para subvenção (R$ 37k) de projetos de tecnologia<br>
 » Alumni <b>Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a></b> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'><b>Royal Academy of Engineering (UK)</b></a><br>
 » 1º lugar<b><a href='https://www.premiooziressilva.com/'> Prêmio Ozires Silva</a></b> de Empreendedorismo Sustentável (11a edição), modalidade Pessoa Física (2018)<br>
 <br>
