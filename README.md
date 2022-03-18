@@ -114,9 +114,9 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
     <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<br><br>
+  <br>
+  
+  
 <b>Portfolio - Projetos de Front-End (curso Trybe)</b><br>
 
 <a href="https://elite-pie.surge.sh/"><b>Recipes App</b></a>
@@ -129,7 +129,14 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 <br> Projeto avaliativo, realizado individualmente, com uso de <b>Redux</b> para gerenciamento de estado.
 <br> Conteúdo populado via conversão por API externa: economia.awesomeapi.com.br/json/all
     
-<a href=""></a>
+<br>
+  <b>Ciência de dados (módulos i,ii,iii da Especialização UTFPR-DV)</b><br>
+  
+<img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  
+<br>» Gerenciamento de Banco de Dados (pgAdmin4): consultas envolvendo projeção, seleção, junção externa, operação de conjunto, divisão relacional, operação de agregação e agrupamento.
+<br>» R: carga de dados através de arquivos externos (.csv), consultas similar às do PostgreSQL, manipulação de DataFrames, geração de gráficos via ggplot2. 
+  
 
 <br>
 <!--
