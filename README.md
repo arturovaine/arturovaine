@@ -1,4 +1,22 @@
-<!--
+ <!--# Project tree
+
+.
+ * [tree-md](./tree-md)
+ * [dir2](./dir2)
+   * [file21.ext](./dir2/file21.ext)
+   * [file22.ext](./dir2/file22.ext)
+   * [file23.ext](./dir2/file23.ext)
+ * [dir1](./dir1)
+   * [file11.ext](./dir1/file11.ext)
+   * [file12.ext](./dir1/file12.ext)
+ * [file_in_root.ext](./file_in_root.ext)
+ * [README.md](./README.md)
+ * [dir3](./dir3)
+-->
+
+
+ 
+ <!--
 **arturovaine/arturovaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -130,15 +148,7 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 <br> Conteúdo populado via conversão por API externa: economia.awesomeapi.com.br/json/all
     
 <br>
-  <b>Ciência de dados (módulos i,ii,iii da Especialização UTFPR-DV)</b><br>
-  
-<img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  
-<br>» Gerenciamento de Banco de Dados (pgAdmin4): consultas envolvendo projeção, seleção, junção externa, operação de conjunto, divisão relacional, operação de agregação e agrupamento.
-<br>» R: carga de dados através de arquivos externos (.csv), consultas similar às do PostgreSQL, manipulação de DataFrames, geração de gráficos via ggplot2. 
-  
 
-<br>
 <!--
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/arturovaine/github-readme-stats)
 -->
@@ -152,6 +162,7 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&langs_count=7&theme=radical"/>-->
   </a>
 </div>
+
 <br>
 <b>Competições</b>
  <br><br>
@@ -180,6 +191,13 @@ Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
 » Graduado em <b>Engenharia Mecânica</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)<br>
 » Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, França<br>
 » 1º lugar na seleção de bolsistas <b>CAPES BRAFITEC/UTFPR</b> (2013)<br>
+
+<br><b>Ciência de dados (módulos i,ii,iii da Especialização UTFPR-DV)</b><br>
+  
+<img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<br>» Gerenciamento de Banco de Dados (pgAdmin4): consultas por projeção, seleção, junção, agregação e agrupamento.
+<br>» R: consultas SQL, manipulação de DataFrames, geração de gráficos via ggplot2. 
+<br>
 
 <br><b>Projeto de Desenvolvimento de Prótese Mioelétrica de Membro Superior<a href='https://github.com/arturovaine/arturovaine/blob/main/sbionics.md'></b> (anexos)</a><br>
 
