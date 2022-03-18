@@ -106,8 +106,14 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 <b>Development Web Full Stack student @ Trybe</b><br>
 
 <p align="left">
-  
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a> 
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+    <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img align="center" alt="Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
 <br><br>
 <b>Portfolio - Projetos de Front-End (curso Trybe)</b><br>
 
@@ -129,8 +135,12 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 -->
 <div>
   <a href="https://github.com/arturovaine">
+    
+[![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)
+ <!--
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!--<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&langs_count=7&theme=radical"/>-->
+ <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&langs_count=7&theme=radical"/>-->
   </a>
 </div>
 <br>
@@ -143,14 +153,19 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 
 <br><br>
 <b>Background geral</b>
- <br><br>
+ <br>
 
 » Analista de Dados no <a href='https://www.iat.pr.gov.br/Noticia/Simepar-vai-agregar-tecnologia-ao-monitoramento-de-barragens'><b>SIMEPAR</b></a> (jul/2019; dez/2021)<br>
 Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
 -<b>Front-end</b> de formulário técnico com ~350 inputs (HTML, JavaScript, CSS);<br>
 -<b>Análise de Dados</b> para suporte de Classificação de Risco;<br>
 -Estruturação de workflow de coleta de dados e suporte na modelagem de banco de dados;<br>
--Garantia da qualidade de dados de ~880 relatórios e verificação de inconsistências;<br>
+-Garantia da qualidade de dados de ~880 relatórios e verificação de inconsistências;<br><br>
+<img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
 <br>
  
 » Graduado em <b>Engenharia Mecânica</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)<br>
