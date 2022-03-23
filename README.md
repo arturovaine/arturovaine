@@ -146,15 +146,14 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 <br> <b>App CRUD</b> para controle de despesas, com conversão automática de câmbio via API.
 <br> Projeto avaliativo, realizado individualmente, com uso de <b>Redux</b> para gerenciamento de estado.
 <br> Conteúdo populado via conversão por API externa: economia.awesomeapi.com.br/json/all
-    
-<br>
-
+<br><br>
+<a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a>
+<br><br><br>
 <!--
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/arturovaine/github-readme-stats)
--->
+--><br>
 <div>
-  <a href="https://github.com/arturovaine">
-    
+
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)
  <!--
