@@ -143,12 +143,12 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
   
 <b>Portfolio - Projetos de Front-End (curso Trybe)</b><br>
 
-<a href="https://elite-pie.surge.sh/"><b>Recipes App</b></a>
+<a href="https://elite-pie.surge.sh/"><b>Recipes App</b> (live demo)</a>
 <br> <b>App de consulta</b> de receitas e drinks, com funções de filtragem, favoritar, marcação de checklist de ingredientes. 
 <br> Aplicação realizada em quarteto, para avaliação de conteúdos de <b>React Hooks</b> e gerenciamento de estado via <b>Context API</b>.
 <br> Conteúdo populado via APIs externas: themealdb.com e thecocktaildb.com
 
-<a href="https://kindly-industry.surge.sh/"><b>Wallet - Expense Tracker</b></a>
+<a href="https://kindly-industry.surge.sh/"><b>Wallet - Expense Tracker</b> (live demo)</a>
 <br> <b>App CRUD</b> para controle de despesas, com conversão automática de câmbio via API.
 <br> Projeto avaliativo, realizado individualmente, com uso de <b>Redux</b> para gerenciamento de estado.
 <br> Conteúdo populado via conversão por API externa: economia.awesomeapi.com.br/json/all
