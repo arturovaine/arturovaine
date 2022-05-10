@@ -168,14 +168,6 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
   </a>
 </div>
 
-<br>
-<b>Competições</b>
- <br><br>
-» 2º lugar <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Equipe Vous), etapa seletiva para competição mundial (2019)<br>
-» 3º lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Equipe Epic), primeiro hackathon de perfumaria (2017)<br>
-» Finalista <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Equipe Hack'nergy), Relacionamento Inteligente com Consumidor (2016)
-<br>
-
 <br><br>
 <b>Background geral</b>
  <br>
@@ -205,6 +197,15 @@ Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
 <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <br>» Gerenciamento de Banco de Dados (pgAdmin4): consultas por projeção, seleção, junção, agregação e agrupamento.
 <br>» R: consultas SQL, manipulação de DataFrames, geração de gráficos via ggplot2. 
+<br>
+
+
+<br>
+<b>Competições</b>
+ <br><br>
+» 2º lugar <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Equipe Vous), etapa seletiva para competição mundial (2019)<br>
+» 3º lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Equipe Epic), primeiro hackathon de perfumaria (2017)<br>
+» Finalista <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Equipe Hack'nergy), Relacionamento Inteligente com Consumidor (2016)
 <br>
 
 <br><b>Projeto de Desenvolvimento de Prótese Mioelétrica de Membro Superior<a href='https://github.com/arturovaine/arturovaine/blob/main/sbionics.md'></b> (anexos)</a><br>
