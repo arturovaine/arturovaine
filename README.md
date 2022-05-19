@@ -162,7 +162,8 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 <div>
 
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)
+ <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)-->
+ 
  <!--
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&langs_count=7&theme=radical"/>-->
