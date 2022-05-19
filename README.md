@@ -128,7 +128,7 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 [![ProfileViews](https://komarev.com/ghpvc/?username=arturovaine&label=Profile%20views&color=0e75b6&style=flat)](www.https://github.com/arturovaine/)
 
 
-<b>Desenvolvimento Web Full Stack @ Trybe (em formação)</b><br>
+<b>Dev Full Stack student @ Trybe</b><br>
 
 <p align="left">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -162,8 +162,9 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/arturovaine/github-readme-stats)
 --><br>
 <div>
-
-[![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)
+ <!--
+[![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)-->
+ 
  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97&include_all_commits=true&count_private=true)](https://github.com/arturovaine/github-readme-stats)-->
  
  <!--
@@ -173,7 +174,7 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 </div>
 
 <br><br>
-<b>Background geral</b>
+<b>CV:</b>
  <br>
 
 » Analista de Dados no <a href='https://www.iat.pr.gov.br/Noticia/Simepar-vai-agregar-tecnologia-ao-monitoramento-de-barragens'><b>SIMEPAR</b></a> (jul/2019; dez/2021)<br>
