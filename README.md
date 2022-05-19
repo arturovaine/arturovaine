@@ -173,7 +173,7 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
   </a>
 </div>
 
-<br><br>
+
 <b>CV:</b>
  <br>
 
