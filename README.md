@@ -125,6 +125,8 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturo.vaine@gmail.com)](mailto:arturo.vaine@gmail.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-grey?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/arturovaine)](https://www.behance.net/arturovaine)
 [![Thingiverse Badge](https://img.shields.io/badge/-Thingiverse-darkblue?style=flat-square&logo=Thingiverse&logoColor=blue&link=https://www.thingiverse.com/arturovaine/designs)](https://www.thingiverse.com/arturovaine/designs)
+[![ProfileViews](https://komarev.com/ghpvc/?username=arturovaine&label=Profile%20views&color=0e75b6&style=flat)](www.https://github.com/arturovaine/)
+
 
 <b>Desenvolvimento Web Full Stack @ Trybe (em formação)</b><br>
 
