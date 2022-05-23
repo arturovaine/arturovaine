@@ -195,7 +195,7 @@ Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
  
 » Graduado em <b>Engenharia Mecânica</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)<br>
 » Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, França<br>
-» 1º lugar na seleção de bolsistas <b>CAPES BRAFITEC/UTFPR</b> (2013)<br>
+» 1º lugar na seleção de bolsistas <a href="https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/programa-capes-brafitec"><b>CAPES BRAFITEC/UTFPR</b></a> (2013)<br>
 
 <br><b>Ciência de dados (módulos i,ii,iii da Especialização UTFPR-DV)</b><br>
   
