@@ -145,6 +145,8 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
   
 
 <b>Portfolio - Projetos de Front-End (curso Trybe)</b><br>
+ 
+  <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 
 <a href="https://elite-pie.surge.sh/"><b>Recipes App</b> &#9673; (live demo)</a>
 <br> <b>App de consulta</b> de receitas e drinks, com funções de filtragem, favoritar, marcação de checklist de ingredientes. 
@@ -155,9 +157,14 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 <br> <b>App CRUD</b> para controle de despesas, com conversão automática de câmbio via API.
 <br> Projeto avaliativo, realizado individualmente, com uso de <b>Redux</b> para gerenciamento de estado.
 <br> Conteúdo populado via conversão por API externa: economia.awesomeapi.com.br/json/all
-<br><br>
-<a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a>
+<br>
+ 
+<a href="https://github.com/arturovaine/project-talker-manager"><b>Talker Manager API</b></a>
+<br> <b>API</b> com várias rotas, e métodos GET, POST, PUT e DELETE para acesso de banco de dados simulado de palestrantes, com informações básicas de dados pessoais, datas, ranking. Funcionalidade de autenticação foi implementada utilizando token criado via JWT.
+<br> Projeto realizado individualmente utilizando <b>NodeJS, Express e JWT</b>.
+<br> Conteúdo de palestrantes foi populado previamente via JSON.
 <br><br><br>
+
 <!--
 [![ARTURO's github stats](https://github-readme-stats.vercel.app/api?username=arturovaine&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/arturovaine/github-readme-stats)
 --><br>
@@ -172,7 +179,6 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&langs_count=7&theme=radical"/>-->
   </a>
 </div>
-
 
 <b>CV:</b>
  <br>
