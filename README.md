@@ -160,8 +160,7 @@ https://www.linkedin.com/posts/mauricio-carvalho_ontem-conversando-com-4-devs-fo
 <br>
  
 <a href="https://github.com/arturovaine/project-talker-manager"><b>Talker Manager API</b></a>
-<br> <b>API</b> com várias rotas, e métodos GET, POST, PUT e DELETE para acesso de banco de dados simulado de palestrantes, com informações básicas de dados pessoais, datas, ranking. Funcionalidade de autenticação foi implementada utilizando token criado via JWT. Projeto realizado individualmente utilizando <b>NodeJS, Express e JWT</b>.
-<br> Conteúdo de palestrantes foi populado previamente via JSON.
+<br> <b>API</b> com várias rotas, e métodos GET, POST, PUT e DELETE para acesso de banco de dados simulado de palestrantes, com informações básicas de dados pessoais, datas, ranking. Funcionalidade de autenticação foi implementada utilizando token criado via JWT. Projeto realizado individualmente utilizando <b>NodeJS, Express e JWT</b>. Conteúdo de palestrantes foi populado previamente via JSON.
 <br><br><br>
 
 <!--
