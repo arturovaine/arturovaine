@@ -25,11 +25,6 @@
  
   <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 
-<a href="https://elite-pie.surge.sh/"><b>Recipes App</b> &#9673; (live demo)</a>
-<br> <b>App de consulta</b> de receitas e drinks, com funções de filtragem, favoritar, marcação de checklist de ingredientes. 
-<br> Aplicação realizada em quarteto, para avaliação de conteúdos de <b>React Hooks</b> e gerenciamento de estado via <b>Context API</b>.
-<br> Conteúdo populado via APIs externas: themealdb.com e thecocktaildb.com
-
 <a href="https://kindly-industry.surge.sh/"><b>Wallet - Expense Tracker</b> &#9673; (live demo)</a>
 <br> <b>App CRUD</b> para controle de despesas, com conversão automática de câmbio via API.
 <br> Projeto avaliativo, realizado individualmente, com uso de <b>Redux</b> para gerenciamento de estado.
@@ -38,7 +33,14 @@
  
 <a href="https://github.com/arturovaine/project-talker-manager"><b>Talker Manager API</b></a>
 <br> <b>API</b> com várias rotas, e métodos GET, POST, PUT e DELETE para acesso de banco de dados simulado de palestrantes, com informações básicas de dados pessoais, datas, ranking. Funcionalidade de autenticação foi implementada utilizando token criado via JWT. Projeto realizado individualmente utilizando <b>NodeJS, Express e JWT</b>. Conteúdo de palestrantes foi populado previamente via JSON.
-<br><br><br>
+<br>
+ 
+<a href="https://elite-pie.surge.sh/"><b>Recipes App</b> &#9673; (live demo)</a>
+<br> <b>App de consulta</b> de receitas e drinks, com funções de filtragem, favoritar, marcação de checklist de ingredientes. 
+<br> Aplicação realizada em quarteto, para avaliação de conteúdos de <b>React Hooks</b> e gerenciamento de estado via <b>Context API</b>.
+<br> Conteúdo populado via APIs externas: themealdb.com e thecocktaildb.com
+ 
+ <br><br><br>
   </a>
 </div>
 
