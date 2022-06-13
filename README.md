@@ -50,7 +50,7 @@
 » Analista de Dados no <a href='https://www.iat.pr.gov.br/Noticia/Simepar-vai-agregar-tecnologia-ao-monitoramento-de-barragens'><b>SIMEPAR</b></a> (jul/2019; dez/2021)<br>
 Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
 -<b>Front-end</b> de formulário técnico com ~350 inputs (HTML, JavaScript, CSS);<br>
--<b>Análise de Dados</b> para suporte de Classificação de Risco;<br>
+-<b>Análise de Dados</b> para suporte de Classificação de Risco (Python, Pandas);<br>
 -Estruturação de workflow de coleta de dados e suporte na modelagem de banco de dados;<br>
 -Garantia da qualidade de dados de ~880 relatórios e verificação de inconsistências;<br><br>
 <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
