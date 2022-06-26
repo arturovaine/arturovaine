@@ -71,8 +71,8 @@ Paraná State Dam Monitoring Project
 
 <br>
  
-» BEng in <b>Mechanical Engineering</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)<br>
-» Alumni (exchange student) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, France<br>
+» BEng in <b>Mechanical Engineering</b> <a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a> (2016)<br>
+» Alumni (exchange student) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, France (2013)<br>
 » 1st place Merit Scholarship selection <a href="https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/programa-capes-brafitec"><b>CAPES BRAFITEC/UTFPR</b></a> (2013)<br>
 
 <br><b>Data Science Post-degree Course: Modules I,II, III - <a href="https://coens.dv.utfpr.edu.br/pos/ciencia-dados/"><b>UTFPR-DV</b></a></b><br>
@@ -87,7 +87,7 @@ Paraná State Dam Monitoring Project
 <b>Contests</b>
  <br><br>
 • 2nd place <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Vous Team), selective stage for world level competition (2019)<br>
-• 3rd place <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Epic Team), first perfumery hackathon(2017)<br>
+• 3rd place <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Epic Team), first perfumery hackathon (2017)<br>
 • Finalist <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Hack'nergy Team), Intelligent Customer Relationship (2016)
 <br>
 
