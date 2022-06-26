@@ -51,7 +51,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&langs_count=3&hide_title=true&hide_border=false&theme=dark" />
 </a>
  <br>
+ 
+ 
 ---
+
 
 <b>CV:</b>
  <br>
