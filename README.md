@@ -87,7 +87,7 @@ Paraná State Dam Monitoring Project
 <b>Contests</b>
  <br><br>
 • 2nd place <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Vous Team), selective stage for world level competition (2019)<br>
-• 3º lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Epic Team), first perfumery hackathon(2017)<br>
+• 3rd place <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Epic Team), first perfumery hackathon(2017)<br>
 • Finalist <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Hack'nergy Team), Intelligent Customer Relationship (2016)
 <br>
 
