@@ -21,24 +21,24 @@
   <br>
   
 
-<b>Portfolio - Projetos curso Trybe</b><br>
+<b>Portfolio - Trybe Course Projects</b><br>
  
   <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 
 <a href="https://kindly-industry.surge.sh/"><b>Wallet - Expense Tracker</b> &#9673; (live demo)</a>
-<br> <b>App CRUD</b> para controle de despesas, com conversão automática de câmbio via API.
-<br> Projeto avaliativo, realizado individualmente, com uso de <b>Redux</b> para gerenciamento de estado.
-<br> Conteúdo populado via conversão por API externa: economia.awesomeapi.com.br/json/all
+<br> <b>CRUD App</b> for expenses control, with automatic currency conversion via API.
+<br> Evaluative project, carried out individually, using <b>Redux</b> for state management.
+<br> Content populated via external API conversion: <a href='economy.awesomeapi.com.br/json/all'>economy.awesomeapi.com.br/json/all</a>
 <br>
  
 <a href="https://github.com/arturovaine/project-talker-manager"><b>Talker Manager API</b></a>
-<br> <b>API</b> com várias rotas, e métodos GET, POST, PUT e DELETE para acesso de banco de dados simulado de palestrantes, com informações básicas de dados pessoais, datas, ranking. Funcionalidade de autenticação foi implementada utilizando token criado via JWT. Projeto realizado individualmente utilizando <b>NodeJS, Express e JWT</b>. Conteúdo de palestrantes foi populado previamente via JSON.
+<br> <b>API</b> with multiple routes, and GET, POST, PUT, DELETE methods for accessing simulated database of speakers, with basic information of personal data, dates, ranking. Authentication functionality was implemented using token created via JWT. Project carried out individually using <b>NodeJS, Express and JWT</b>. Speaker content was previously populated via JSON.
 <br>
  
 <a href="https://elite-pie.surge.sh/"><b>Recipes App</b> &#9673; (live demo)</a>
-<br> <b>App de consulta</b> de receitas e drinks, com funções de filtragem, favoritar, marcação de checklist de ingredientes. 
-<br> Aplicação realizada em quarteto, para avaliação de conteúdos de <b>React Hooks</b> e gerenciamento de estado via <b>Context API</b>.
-<br> Conteúdo populado via APIs externas: themealdb.com e thecocktaildb.com
+<br><b>Recipe and drink consultation app</b>, with filtering functions, favorites, ingredient checklist marking.
+<br> Application constructed in 4-person-group, to evaluate <b>React Hooks</b> content and state management via <b>Context API</b>.
+<br> Content populated via external APIs: <a href='themealdb.com'>themealdb.com</a> and <a href='thecocktaildb.com'>thecocktaildb.com</a>
  
  <br><br><br>
   </a>
@@ -47,12 +47,18 @@
 <b>CV:</b>
  <br>
 
-» Analista de Dados no <a href='https://www.iat.pr.gov.br/Noticia/Simepar-vai-agregar-tecnologia-ao-monitoramento-de-barragens'><b>SIMEPAR</b></a> (jul/2019; dez/2021)<br>
-Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
--<b>Front-end</b> de formulário técnico com ~350 inputs (HTML, JavaScript, CSS);<br>
--<b>Análise de Dados</b> para suporte de Classificação de Risco (Python, Pandas);<br>
--Estruturação de workflow de coleta de dados e suporte na modelagem de banco de dados;<br>
--Garantia da qualidade de dados de ~880 relatórios e verificação de inconsistências;<br><br>
+<b>Data Analyst</b> at <a href='https://www.iat.pr.gov.br/Noticia/Simepar-vai-agregar-tecnologia-ao-monitoramento-de-barragens'><b>SIMEPAR</b></a> · Full-time<br>
+Jul 2019 - Dec 2021 · 2 yrs 6 mos<br>
+Curitiba Area, Brazil
+
+Paraná State Dam Monitoring Project
+• Data Analysis Support for Dam Risk Classification;<br>
+• Structure of the <b>business rules</b> along the data collection workflow;<br>
+• Data compilation (Python: Pandas, NumPy, Matplotlib);<br>
+• <b>Front-end</b> of technical form with ~350 inputs (HTML, JavaScript, CSS);<br>
+• Ensuring <b>data quality</b> of ~880 reports and inconsistencies verification;<br>
+• Conception of <b>PowerBI</b> decision support tool (dashboard) of dam reports ;<br>
+• Reporting of <b>KPIs</b>: team's productivity, deliverables and scheduling;<br><br>
 <img align="center" alt="Jira" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -63,30 +69,30 @@ Projeto de Monitoramento de Barragens do Governo do Estado do Paraná<br>
 
 <br>
  
-» Graduado em <b>Engenharia Mecânica</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)<br>
-» Alumni (intercâmbio) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, França<br>
-» 1º lugar na seleção de bolsistas <a href="https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/programa-capes-brafitec"><b>CAPES BRAFITEC/UTFPR</b></a> (2013)<br>
+» BEng in <b>Mechanical Engineering</b> (<a href='http://www.utfpr.edu.br/'><b>UTFPR</b></a>)<br>
+» Alumni (exchange student) Institut National des Sciences Appliquées (<a href='https://www.insa-lyon.fr/en/'><b>INSA</b></a>) de Lyon, France<br>
+» 1st place Merit Scholarship selection <a href="https://www.gov.br/capes/pt-br/acesso-a-informacao/acoes-e-programas/bolsas/bolsas-e-auxilios-internacionais/encontre-aqui/paises/franca/programa-capes-brafitec"><b>CAPES BRAFITEC/UTFPR</b></a> (2013)<br>
 
-<br><b>Ciência de dados (módulos i,ii,iii da Especialização UTFPR-DV)</b><br>
+<br><b>Data Science Post-degree Course: Modules I,II, III - <a href="https://coens.dv.utfpr.edu.br/pos/ciencia-dados/"><b>UTFPR-DV</b></a></b><br>
   
 <img align="center" alt="R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"><img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"><img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-<br>» Gerenciamento de Banco de Dados (pgAdmin4): consultas por projeção, seleção, junção, agregação e agrupamento.
-<br>» R: consultas SQL, manipulação de DataFrames, geração de gráficos via ggplot2. 
+<br>» Database Management (pgAdmin4): queries by projection, selection, join, aggregation and grouping.
+<br>» R: SQL queries, DataFrames manipulation, plotting via ggplot2.
 <br>
 
 
 <br>
-<b>Competições</b>
+<b>Contests</b>
  <br><br>
-» 2º lugar <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Equipe Vous), etapa seletiva para competição mundial (2019)<br>
-» 3º lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Equipe Epic), primeiro hackathon de perfumaria (2017)<br>
-» Finalista <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Equipe Hack'nergy), Relacionamento Inteligente com Consumidor (2016)
+» 2nd place <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Vous Team), selective stage for world level competition (2019)<br>
+» 3º lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Epic Team), first perfumery hackathon(2017)<br>
+» Finalist <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Hack'nergy Team), Intelligent Customer Relationship (2016)
 <br>
 
-<br><b>Projeto de Desenvolvimento de Prótese Mioelétrica de Membro Superior<a href='https://github.com/arturovaine/arturovaine/blob/main/sbionics.md'></b> (anexos)</a><br>
+<br><b>Upper Limb Myoelectric Prosthesis Development Project<a href='https://github.com/arturovaine/arturovaine/blob/main/sbionics.md'></b> (notes)</a><br>
 
-» Participante do 1º edital <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) para subvenção (R$ 37k) de projetos de tecnologia<br>
+» Participant of the 1st cohort <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) subvention fund (≈ 8k USD / 36k BRL, early 2020)<br>
 » Alumni <b>Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a></b> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'><b>Royal Academy of Engineering (UK)</b></a><br>
-» 1º lugar<b><a href='https://www.premiooziressilva.com/'> Prêmio Ozires Silva</a></b> de Empreendedorismo Sustentável (11a edição), modalidade Pessoa Física (2018)<br>
+» 1st place<b><a href='https://www.premiooziressilva.com/'> 11th Ozires Silva</a></b> National Prize of Sustainable Entrepreneurship (2018)<br>
 <br>
 
