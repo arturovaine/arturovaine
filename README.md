@@ -40,9 +40,11 @@
 <br> Application constructed in 4-person-group, to evaluate <b>React Hooks</b> content and state management via <b>Context API</b>.
 <br> Content populated via external APIs: <a href='themealdb.com'>themealdb.com</a> and <a href='thecocktaildb.com'>thecocktaildb.com</a>
  
- <br><br><br>
+ <br>
   </a>
 </div>
+
+---
 
 <b>CV:</b>
  <br>
