@@ -84,15 +84,15 @@ Paraná State Dam Monitoring Project
 <br>
 <b>Contests</b>
  <br><br>
-» 2nd place <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Vous Team), selective stage for world level competition (2019)<br>
-» 3º lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Epic Team), first perfumery hackathon(2017)<br>
-» Finalist <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Hack'nergy Team), Intelligent Customer Relationship (2016)
+• 2nd place <a href='https://globallegalhackathon.com/'><b>Hackathon OAB-PR - GLH</b></a> (Vous Team), selective stage for world level competition (2019)<br>
+• 3º lugar <a href='https://www.youtube.com/watch?v=YVSlHFDyucg'><b>Perfumathon - O Boticário</b></a> (Epic Team), first perfumery hackathon(2017)<br>
+• Finalist <a href='https://www.youtube.com/watch?v=KvzbUcHXvps&t=292s'><b>Hackathon SENDI-COPEL</b></a> (Hack'nergy Team), Intelligent Customer Relationship (2016)
 <br>
 
-<br><b>Upper Limb Myoelectric Prosthesis Development Project<a href='https://github.com/arturovaine/arturovaine/blob/main/sbionics.md'></b> (notes)</a><br>
+<br><b>Upper Limb Myoelectric Prosthesis Development Project<a href='https://github.com/arturovaine/arturovaine/blob/main/sbionics.md'></b> (overview)</a><br>
 
-» Participant of the 1st cohort <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) subvention fund (≈ 8k USD / 36k BRL, early 2020)<br>
-» Alumni <b>Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a></b> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'><b>Royal Academy of Engineering (UK)</b></a><br>
-» 1st place<b><a href='https://www.premiooziressilva.com/'> 11th Ozires Silva</a></b> National Prize of Sustainable Entrepreneurship (2018)<br>
+• Participant of the 1st cohort <a href='http://portal.sinapsedainovacao.com.br/'><b>Sinapse da Inovação Paraná</b></a> (2019) subvention fund (≈ 8k USD / 36k BRL, early 2020)<br>
+• Alumni <b>Fellow <a href='https://www.raeng.org.uk/global/sustainable-development/leaders-innovation-fellowships'>LIF-7</a></b> (2021) Global Programme @ <a href='https://www.raeng.org.uk/'><b>Royal Academy of Engineering (UK)</b></a><br>
+• 1st place<b><a href='https://www.premiooziressilva.com/'> 11th Ozires Silva</a></b> National Prize of Sustainable Entrepreneurship (2018)<br>
 <br>
 
