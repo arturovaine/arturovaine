@@ -46,9 +46,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=arturovaine&count_private=true&show_icons=true&include_all_commits=true&layout=compact&hide_border=false&hide_title=false&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&langs_count=3&hide_title=true&hide_border=false&theme=dark" />
-</a>
+</a> -->
  <br>
  
  
