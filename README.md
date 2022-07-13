@@ -1,4 +1,5 @@
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturovaine/)](https://www.linkedin.com/in/arturovaine/)
+  [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-navy?style=flat-square&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/arturovainecwb)](https://www.kaggle.com/arturovainecwb)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arturo.vaine@gmail.com)](mailto:arturo.vaine@gmail.com)
 [![Behance Badge](https://img.shields.io/badge/-Behance-grey?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/arturovaine)](https://www.behance.net/arturovaine)
 [![Thingiverse Badge](https://img.shields.io/badge/-Thingiverse-darkblue?style=flat-square&logo=Thingiverse&logoColor=blue&link=https://www.thingiverse.com/arturovaine/designs)](https://www.thingiverse.com/arturovaine/designs)
