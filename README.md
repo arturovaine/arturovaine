@@ -18,7 +18,7 @@
 -->
 
 
-#### Technologies I'm continuous improving skills with:
+##### Technologies I'm continuous improving skills with*:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -33,12 +33,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  
-  
-</div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="three.js" alt="three.js" width="40" height="40"/>&nbsp;
 <br/>
 
-#### Dev Full Stack student @ Trybe
+###### *(and "just" interested in three.js)
+</div>
+
+
+##### Dev Full Stack student @ Trybe
 <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 <br>
 
