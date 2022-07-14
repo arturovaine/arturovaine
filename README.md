@@ -25,21 +25,6 @@
  
   <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 
-<a href="https://kindly-industry.surge.sh/"><b>Wallet - Expense Tracker</b> &#9673; (live demo)</a>
-<br> <b>CRUD App</b> for expenses control, with automatic currency conversion via API.
-<br> Evaluative project, carried out individually, using <b>Redux</b> for state management.
-<br> Content populated via external API conversion: <a href='economy.awesomeapi.com.br/json/all'>economy.awesomeapi.com.br/json/all</a>
-<br>
- 
-<a href="https://github.com/arturovaine/project-talker-manager"><b>Talker Manager API</b></a>
-<br> <b>API</b> with multiple routes, and GET, POST, PUT, DELETE methods for accessing simulated database of speakers, with basic information of personal data, dates, ranking. Authentication functionality was implemented using token created via JWT. Project carried out individually using <b>NodeJS, Express and JWT</b>. Speaker content was previously populated via JSON.
-<br>
- 
-<a href="https://elite-pie.surge.sh/"><b>Recipes App</b> &#9673; (live demo)</a>
-<br><b>Recipe and drink consultation app</b>, with filtering functions, favorites, ingredient checklist marking.
-<br> Application constructed in 4-person-group, to evaluate <b>React Hooks</b> content and state management via <b>Context API</b>.
-<br> Content populated via external APIs: <a href='themealdb.com'>themealdb.com</a> and <a href='thecocktaildb.com'>thecocktaildb.com</a>
- 
  <br>
   </a>
 </div>
