@@ -39,7 +39,7 @@
 ---
 
 
-<b>CV:</b>
+<b>Background:</b>
  <br>
 
 <b>Data Analyst</b> at <a href='https://www.iat.pr.gov.br/Noticia/Simepar-vai-agregar-tecnologia-ao-monitoramento-de-barragens'><b>SIMEPAR</b></a> · Full-time<br>
