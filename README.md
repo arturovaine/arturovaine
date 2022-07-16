@@ -40,7 +40,7 @@
 </div>
 
 
-##### Dev Full Stack student @ Trybe
+##### Dev Web Full Stack student @ Trybe
 <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 <br>
 
