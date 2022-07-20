@@ -17,6 +17,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuchs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
+I'm a Mechanical Engineer with 3 years experience in <b>Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript</b>; and Product Development Process/<b>Agile Methodologies (Design Thinking, Kanban, Scrum)</b>. In 2019 I started to design at SIMEPAR the data workflow of pioneer project of monitoring dams in Paraná state. The Brumadinho dam disaster (jan/2019), in the state of Minas Gerais, created a sense of urgency for a greater national monitoring and dam inspection.
+
+In 2021 I joined the 7th cohort of LIF programme at the Royal Academy of Engineering (RAEng), United Kingdom's academy founded in 1976. "LIF is a training and mentoring course for leading technology entrepreneurs from Newton Fund partner countries. It is run by the RAEng in partnership with local organisations." I have been selected from a competitive field of applicants based on the novelty, technical credibility and commercial potential of the submited innovation and its potential to make a positive contribution to social and economic development.
+
 
 ##### Technologies I'm continuous improving skills with*:
 
