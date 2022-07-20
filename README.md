@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuchs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-I'm a Mechanical Engineer with 2+ years experience in <b>Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript</b>; and Product Development Process/<b>Agile Methodologies (Design Thinking, Kanban, Scrum)</b>. In 2019 I started to design at SIMEPAR the data workflow of pioneer project of monitoring dams in Paraná state. The Brumadinho dam disaster (jan/2019), in the state of Minas Gerais, created a sense of urgency for a greater national monitoring and dam inspection.
+I'm a Mechanical Engineer with 3 years experience in <b>Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript</b>; and Product Development Process/<b>Agile Methodologies (Design Thinking, Kanban, Scrum)</b>. In 2019 I started to design at SIMEPAR the data workflow of pioneer project of monitoring dams in Paraná state. The Brumadinho dam disaster (jan/2019), in the state of Minas Gerais, created a sense of urgency for a greater national monitoring and dam inspection.
 
 Nowadays I'm finishing Trybe's course of Web Development Full Stack. Trybe is a web development school that has a genuine commitment to the professional success of its students. There are more than 1500 hours of training that covers fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), agile methodologies (<b>Scrum, Kanban</b>) and soft skills.
 
