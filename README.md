@@ -49,5 +49,6 @@ Moreover, recently, in 2021 I joined the 7th cohort of LIF programme at the Roya
 ##### Dev Web Full Stack student @ Trybe
 <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 <br>
-
+<!--
 ![codewars](https://www.codewars.com/users/arturovaine/badges/small)
+-->
