@@ -19,7 +19,9 @@
 
 I'm a Mechanical Engineer with 3 years experience in <b>Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript</b>; and Product Development Process/<b>Agile Methodologies (Design Thinking, Kanban, Scrum)</b>. In 2019 I started to design at SIMEPAR the data workflow of pioneer project of monitoring dams in Paraná state. The Brumadinho dam disaster (jan/2019), in the state of Minas Gerais, created a sense of urgency for a greater national monitoring and dam inspection.
 
-In 2021 I joined the 7th cohort of LIF programme at the Royal Academy of Engineering (RAEng), United Kingdom's academy founded in 1976. "LIF is a training and mentoring course for leading technology entrepreneurs from Newton Fund partner countries. It is run by the RAEng in partnership with local organisations." I have been selected from a competitive field of applicants based on the novelty, technical credibility and commercial potential of the submited innovation and its potential to make a positive contribution to social and economic development.
+Nowadays I'm finishing Trybe's course of Web Development Full Stack. Trybe is a web development school that has a genuine commitment to the professional success of its students. There are more than 1500 hours of training that covers fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), agile methodologies (<b>Scrum, Kanban</b>) and soft skills.
+
+Moreover, recently, in 2021 I joined the 7th cohort of LIF programme at the Royal Academy of Engineering (RAEng), United Kingdom's academy founded in 1976. "LIF is a training and mentoring course for leading technology entrepreneurs from Newton Fund partner countries."
 
 
 ##### Technologies I'm continuous improving skills with*:
