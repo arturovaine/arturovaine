@@ -52,4 +52,5 @@ Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.o
 <br>
 <!--
 ![codewars](https://www.codewars.com/users/arturovaine/badges/small)
+“The most advanced application of technology is not necessarily the same as the application of the most advanced technology.” Fred Forchheimer 
 -->
