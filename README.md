@@ -43,7 +43,7 @@ Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.o
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="three.js" alt="three.js" width="40" height="40"/>&nbsp;
 <br/>
 
-###### *(and "just" interested in three.js)
+###### *(and interested in three.js)
 </div>
 
 
@@ -53,4 +53,5 @@ Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.o
 <!--
 ![codewars](https://www.codewars.com/users/arturovaine/badges/small)
 “The most advanced application of technology is not necessarily the same as the application of the most advanced technology.” Fred Forchheimer 
+In 2021 I joined the 7th cohort of LIF programme at the Royal Academy of Engineering (RAEng), United Kingdom's academy founded in 1976. "LIF is a training and mentoring course for leading technology entrepreneurs from Newton Fund partner countries. It is run by the RAEng in partnership with local organisations." I have been selected from a competitive field of applicants based on the novelty, technical credibility and commercial potential of the submited innovation and its potential to make a positive contribution to social and economic development.
 -->
