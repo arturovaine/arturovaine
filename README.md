@@ -25,7 +25,7 @@ Nowadays I'm finishing <a href="https://www.betrybe.com/" target="_blank">Trybe<
 Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.org.uk" target="_blank">LIF programme</a> at the Royal Academy of Engineering (RAEng), United Kingdom's academy founded in 1976. "LIF is a training and mentoring course for leading technology entrepreneurs from Newton Fund partner countries."
 
 
-##### Technologies in which I'm continuously improving my skills:
+#### Technologies in which I'm continuously improving my skills:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
