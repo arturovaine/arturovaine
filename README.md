@@ -17,6 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuchs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <br />
+> Currently focused in Back-end Development and Data Analysis
+<br /><br />
 I'm a Mechanical Engineer with 3 years experience in <b>Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript</b>; and Product Development Process/<b>Agile Methodologies (Design Thinking, Kanban, Scrum)</b>. In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> the data workflow of pioneer project of monitoring dams in Paraná state. The Brumadinho dam disaster (jan/2019), in the state of Minas Gerais, created a sense of urgency for a greater national monitoring and dam inspection.
 <br /><br />
 
