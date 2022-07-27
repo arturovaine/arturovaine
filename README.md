@@ -40,10 +40,8 @@ Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.o
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" title="three.js" alt="three.js" width="40" height="40"/>&nbsp;
 <br/>
 
-###### *(and interested in three.js)
 </div>
 
 
