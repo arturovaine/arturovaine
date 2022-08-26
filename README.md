@@ -20,12 +20,12 @@
 > <b>Desenvolvedor focado em Back-end e Análise de Dados</b>
 <br /><br />
 Sou Engenheiro Mecânico formado na <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>, com 3 anos de experiência em Análise de Dados (Pandas/Python), Desenvolvimento Web (Front-end) c/ HTML, CSS, Javascript; e Processo de Desenvolvimento de Produto/Metodologias Ágeis (Design Thinking, Kanban, Scrum).
-
+<br /><br />
 Em 2019 desenhei no <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> o fluxo de trabalho de dados do projeto pioneiro de monitoramento de barragens no estado do Paraná (formulário front-end e análise de dados com Python). O desastre da barragem de Brumadinho (jan/2019), no estado de Minas Gerais, criou um senso de urgência para um maior monitoramento e fiscalização nacional das barragens.
 <br /><br />
 Atualmente estou terminando o curso de Desenvolvimento Web Full Stack da <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Trybe é uma escola de desenvolvimento web voltada a demandas de mercado: são mais de 1500 horas de treinamento que abrangem fundamentos de desenvolvimento web (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Ciência da Computação (<b>Python</b>), metodologias ágeis (Scrum, Kanban) e soft skills.
 <br /><br />
-Além disso, em 2021 integrei a 7ª coorte do programa <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> da Royal Academy of Engineering (RAEng), academia do Reino Unido fundada em 1976. inovação e seu potencial para contribuir positivamente para o desenvolvimento social e econômico”.
+Além disso, em 2021 integrei a 7ª coorte do programa <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> da Royal Academy of Engineering (RAEng), academia do Reino Unido fundada em 1976. Projetos dos participantes são selecionados a partir de um campo competitivo de candidatos com base na novidade, credibilidade técnica e potencial comercial da inovação e seu potencial para contribuir positivamente para o desenvolvimento social e econômico.
 
 <!-- > <b>Developer focused on Back-end and Data Analysis</b>
 <br /><br />
