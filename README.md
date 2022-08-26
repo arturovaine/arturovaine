@@ -21,7 +21,7 @@
 <br /><br />
 I'm a Mechanical Engineer with 3 years experience in <b>Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript</b>; and Product Development Process/<b>Agile Methodologies (Design Thinking, Kanban, Scrum)</b>.
 <br /><br />
-In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> the data workflow of pioneer project of monitoring dams in Paraná state (front-end form and data anylsis with Python). The Brumadinho dam disaster (jan/2019), in the state of Minas Gerais, created a sense of urgency for a greater national monitoring and dam inspection.
+In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> the data workflow of pioneer project of monitoring dams in Paraná state (<b>front-end form and data anylsis with Python</b>). The Brumadinho dam disaster (jan/2019), in the state of Minas Gerais, created a sense of urgency for a greater national monitoring and dam inspection.
 <br /><br />
 
 Nowadays I'm finishing <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s course of Web Development Full Stack. Trybe is a web development school that has a genuine commitment to the professional success of its students.
