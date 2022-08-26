@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuchs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <br />
-> <b>Currently focused on Back-end and Data Analysis</b>
+> <b>Developer focused on Back-end and Data Analysis</b>
 <br /><br />
 I'm a Mechanical Engineer with 3 years experience in <b>Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript</b>; and Product Development Process/<b>Agile Methodologies (Design Thinking, Kanban, Scrum)</b>.
 <br /><br />
