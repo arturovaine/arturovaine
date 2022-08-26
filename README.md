@@ -21,7 +21,7 @@
 <br /><br />
 Sou Engenheiro Mecânico formado na <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>, com 3 anos de experiência em Análise de Dados (Pandas/Python), Desenvolvimento Web (Front-end) c/ HTML, CSS, Javascript; e Processo de Desenvolvimento de Produto/Metodologias Ágeis (Design Thinking, Kanban, Scrum).
 <br /><br />
-Em 2019 desenhei no <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> o fluxo de trabalho de dados do projeto pioneiro de monitoramento de barragens no estado do Paraná (formulário front-end e análise de dados com Python). O desastre da barragem de Brumadinho (jan/2019), no estado de Minas Gerais, criou um senso de urgência para um maior monitoramento e fiscalização nacional das barragens.
+Em 2019 desenhei no <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> um dos fluxos de trabalho do projeto de monitoramento de barragens no estado do Paraná (front-end de formulário técnico para coleta de informações, e análise de dados com Python). O desastre da barragem de Brumadinho (jan/2019), no estado de Minas Gerais, criou um senso de urgência para um maior monitoramento e fiscalização nacional das barragens.
 <br /><br />
 Atualmente estou terminando o curso de Desenvolvimento Web Full Stack da <a href="https://www.betrybe.com/" target="_blank">Trybe</a>. Trybe é uma escola de desenvolvimento web voltada a demandas de mercado: são mais de 1500 horas de treinamento que abrangem fundamentos de desenvolvimento web (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Ciência da Computação (<b>Python</b>), metodologias ágeis (Scrum, Kanban) e soft skills.
 <br /><br />
