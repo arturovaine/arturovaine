@@ -42,7 +42,8 @@ Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.o
 
  -->
 
-#### Technologies in which I'm continuously improving my skills:
+<!-- #### Technologies in which I'm continuously improving my skills: -->
+#### Contínuo aprendizado nas seguintes tecnologias:
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
