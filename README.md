@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuchs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <br />
-> <b>Developer focused on Back-end and Data Analysis</b>
+> <b>Developer | Back-end and Data Analysis</b>
 <br /><br />
 I am a Mechanical Engineer graduated at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>, with 3 years of experience in Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript; and Product Development Process/Agile Methodologies (Design Thinking, Kanban, Scrum).
 <br /><br />
