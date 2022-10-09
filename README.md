@@ -25,7 +25,7 @@ In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</
 <br /><br />
 I've got Developer certification from <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s Full Stack Web Development course. Trybe is a web development school focused on market demand: there are more than 1500 hours of training covering fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), metodologias ágeis (Scrum, Kanban) and soft skills.
 <br /><br />
-In addition, in 2021 it integrates the 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the Royal Academy of Engineering (RAEng), a UK academy founded in 1976. commercial potential for innovation and unique potential to contribute positively to social and economic development.
+In addition, in 2021 it integrates the 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering</a> (RAEng), a UK academy founded in 1976. commercial potential for innovation and unique potential to contribute positively to social and economic development.
 
 <!-- > <b>Developer focused on Back-end and Data Analysis</b>
 <br /><br />
