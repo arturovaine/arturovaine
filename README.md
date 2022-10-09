@@ -19,28 +19,11 @@
 <br />
 <b> Developer | Web Full Stack & Data Analysis</b>
 <br /><br />
-I am a Mechanical Engineer graduated at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a> (visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a>), with 3 years of experience in Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript; and Product Development Process/Agile Methodologies (Design Thinking, Kanban, Scrum).
+I am a Mechanical Engineer graduated at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a> (visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a>), with 3 years of experience in Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript; and Product Development Process/Agile Methodologies (Design Thinking, Kanban, Scrum). In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> one of the workflows of the dam monitoring project in the state of Paraná (front-end of technical form to collect information and data analysis pipeline using Python).
 <br /><br />
-In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> one of the workflows of the dam monitoring project in the state of Paraná (technical form front-end for collecting information and data analysis with Python). The dam of Brumadinho (Jan/2019), in the state of Minas Gerais, created an urgent disaster for greater monitoring and national inspection of dams.
+I've got Developer certification from <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s Full Stack Web Development course. Trybe is a web development school focused on market demand: there are more than 1500 hours of training covering fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), agile methods (Scrum, Kanban) and soft skills.
 <br /><br />
-I've got Developer certification from <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s Full Stack Web Development course. Trybe is a web development school focused on market demand: there are more than 1500 hours of training covering fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), metodologias ágeis (Scrum, Kanban) and soft skills.
-<br /><br />
-In addition, in 2021 it integrates the 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering</a> (RAEng), a UK academy founded in 1976. commercial potential for innovation and unique potential to contribute positively to social and economic development.
-
-<!-- > <b>Developer focused on Back-end and Data Analysis</b>
-<br /><br />
-I'm a Mechanical Engineer with 3 years experience in <b>Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript</b>; and Product Development Process/<b>Agile Methodologies (Design Thinking, Kanban, Scrum)</b>.
-<br /><br />
-In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> the data workflow of pioneer project of monitoring dams in Paraná state (<b>front-end form and data anylsis with Python</b>). The Brumadinho dam disaster (jan/2019), in the state of Minas Gerais (Brazil), created a sense of urgency for a greater national monitoring and dam inspection.
-<br /><br />
-
-I've got certification as Developer from <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s course of Web Development Full Stack. Trybe is a web development school that has a genuine commitment to the professional success of its students.
-<br /><br />
-There are more than 1500 hours of training that covers fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), agile methodologies (<b>Scrum, Kanban</b>) and soft skills.
-<br /><br />
-Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.org.uk" target="_blank">LIF programme</a> at the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering</a> (RAEng), United Kingdom's academy founded in 1976. "Projects are selected from a competitive field of applicants based on the novelty, technical credibility and commercial potential of innovation and its potential to make a positive contribution to social and economic development."
-
- -->
+In addition, in 2021 I integrated the 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering</a> (RAEng), a UK academy founded in 1976. commercial potential for innovation and unique potential to contribute positively to social and economic development.
  
  <br /> <br />
  
