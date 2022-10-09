@@ -19,7 +19,7 @@
 <br />
 <b> Developer | Web Full Stack & Data Analysis</b>
 <br /><br />
-I am a Mechanical Engineer graduated at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a> (visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a>, with 3 years of experience in Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript; and Product Development Process/Agile Methodologies (Design Thinking, Kanban, Scrum).
+I am a Mechanical Engineer graduated at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a> (visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a>), with 3 years of experience in Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript; and Product Development Process/Agile Methodologies (Design Thinking, Kanban, Scrum).
 <br /><br />
 In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> one of the workflows of the dam monitoring project in the state of Paraná (technical form front-end for collecting information and data analysis with Python). The dam of Brumadinho (Jan/2019), in the state of Minas Gerais, created an urgent disaster for greater monitoring and national inspection of dams.
 <br /><br />
