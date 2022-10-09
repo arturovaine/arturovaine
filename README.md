@@ -41,6 +41,16 @@ There are more than 1500 hours of training that covers fundamentals of web devel
 Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.org.uk" target="_blank">LIF programme</a> at the Royal Academy of Engineering (RAEng), United Kingdom's academy founded in 1976. "Projects are selected from a competitive field of applicants based on the novelty, technical credibility and commercial potential of innovation and its potential to make a positive contribution to social and economic development."
 
  -->
+ 
+ <br /> <br />
+ 
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=arturovaine&include_all_commits=false&count_private=true&layout=compact&theme=dark&show_icons=true" height="180em" align="center" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&theme=dark&show_icons=true" height="180em" align="center" />
+</a>
+
 
 <!-- #### Technologies in which I'm continuously improving my skills: -->
 #### Continuous learning of technologies:
