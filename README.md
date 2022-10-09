@@ -23,7 +23,7 @@ I am a Mechanical Engineer graduated at <a href="http://www.utfpr.edu.br/" targe
 <br /><br />
 In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> one of the workflows of the dam monitoring project in the state of Paraná (technical form front-end for collecting information and data analysis with Python). The dam of Brumadinho (Jan/2019), in the state of Minas Gerais, created an urgent disaster for greater monitoring and national inspection of dams.
 <br /><br />
-I'm currently finishing the <a href="https://www.betrybe.com/" target="_blank">Trybe</a> Full Stack Web Development course. Trybe was a web development school focused on market demand: there are more than 1500 hours of training covering fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), metodologias ágeis (Scrum, Kanban) and soft skills.
+I've got Developer certification from <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s Full Stack Web Development course. Trybe is a web development school focused on market demand: there are more than 1500 hours of training covering fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), metodologias ágeis (Scrum, Kanban) and soft skills.
 <br /><br />
 In addition, in 2021 it integrates the 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the Royal Academy of Engineering (RAEng), a UK academy founded in 1976. commercial potential for innovation and unique potential to contribute positively to social and economic development.
 
@@ -34,7 +34,7 @@ I'm a Mechanical Engineer with 3 years experience in <b>Data Analysis (Pandas/Py
 In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> the data workflow of pioneer project of monitoring dams in Paraná state (<b>front-end form and data anylsis with Python</b>). The Brumadinho dam disaster (jan/2019), in the state of Minas Gerais (Brazil), created a sense of urgency for a greater national monitoring and dam inspection.
 <br /><br />
 
-Nowadays I'm finishing <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s course of Web Development Full Stack. Trybe is a web development school that has a genuine commitment to the professional success of its students.
+I've got certification as Developer from <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s course of Web Development Full Stack. Trybe is a web development school that has a genuine commitment to the professional success of its students.
 <br /><br />
 There are more than 1500 hours of training that covers fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), agile methodologies (<b>Scrum, Kanban</b>) and soft skills.
 <br /><br />
@@ -74,7 +74,7 @@ Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.o
 </div>
 
 
-##### Dev Web Full Stack student @ Trybe
+##### Developer Web Full Stack | Course <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 <br>
 <!--
