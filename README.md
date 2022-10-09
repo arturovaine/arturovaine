@@ -38,7 +38,7 @@ I've got certification as Developer from <a href="https://www.betrybe.com/" targ
 <br /><br />
 There are more than 1500 hours of training that covers fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), agile methodologies (<b>Scrum, Kanban</b>) and soft skills.
 <br /><br />
-Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.org.uk" target="_blank">LIF programme</a> at the Royal Academy of Engineering (RAEng), United Kingdom's academy founded in 1976. "Projects are selected from a competitive field of applicants based on the novelty, technical credibility and commercial potential of innovation and its potential to make a positive contribution to social and economic development."
+Moreover, in 2021 I joined the 7th cohort of <a href="https://innovators.raeng.org.uk" target="_blank">LIF programme</a> at the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering</a> (RAEng), United Kingdom's academy founded in 1976. "Projects are selected from a competitive field of applicants based on the novelty, technical credibility and commercial potential of innovation and its potential to make a positive contribution to social and economic development."
 
  -->
  
