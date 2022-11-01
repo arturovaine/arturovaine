@@ -23,7 +23,7 @@ I am a Mechanical Engineer graduated at <a href="http://www.utfpr.edu.br/" targe
 <br /><br />
 I've got Developer certification from <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s Full Stack Web Development course. Trybe is a web development school focused on market demand: there are more than 1500 hours of training covering fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), agile methods (Scrum, Kanban) and soft skills.
 <br /><br />
-In addition, in 2021 I integrated the 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering</a> (RAEng), a UK academy founded in 1976. commercial potential for innovation and unique potential to contribute positively to social and economic development.
+In addition, in 2021 I integrated the 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering</a> (RAEng), a UK academy founded in 1976. "LIF is a training and mentoring course for leading technology entrepreneurs from Newton Fund partner countries. It is run by the RAEng in partnership with local organisations."
  
  <br /> <br />
  
