@@ -59,7 +59,7 @@ In addition, in 2021 I integrated the 7th cohort of the <a href="https://innovat
 </div>
 
 
-##### Developer Web Full Stack | Course <a href="https://www.betrybe.com/" target="_blank">Certification Trybe (1500h)</a>
+##### Developer Web Full Stack | Certification Course <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 <br>
 <!--
