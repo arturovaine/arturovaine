@@ -56,11 +56,11 @@
 
 </div>
 
-
+<!--
 ##### Developer Web Full Stack | Certification Course <a href="https://www.betrybe.com/" target="_blank">Trybe</a>
 <a href="https://www.betrybe.com/" alt="Trybe" rel="nofollow"><img align="left" src="https://theme.zdassets.com/theme_assets/9633455/9814df697eaf49815d7df109110815ff887b3457.png" style="width:80px;"></a><br><br>
 <br>
-<!--
+
 ![codewars](https://www.codewars.com/users/arturovaine/badges/small)
 “The most advanced application of technology is not necessarily the same as the application of the most advanced technology.” Fred Forchheimer 
 In 2021 I joined the 7th cohort of LIF programme at the Royal Academy of Engineering (RAEng), United Kingdom's academy founded in 1976. "LIF is a training and mentoring course for leading technology entrepreneurs from Newton Fund partner countries. It is run by the RAEng in partnership with local organisations." I have been selected from a competitive field of applicants based on the novelty, technical credibility and commercial potential of the submited innovation and its potential to make a positive contribution to social and economic development.
