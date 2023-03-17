@@ -19,11 +19,10 @@
 <br />
 <b> Developer | Web Full Stack & Data Analysis</b>
 <br /><br />
-I am a Mechanical Engineer graduated at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a> (visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a>), with 2 years of experience in Data Analysis (Pandas/Python), Web Development (Front-end) w/ HTML, CSS, Javascript; and Product Development Process/Agile Methodologies (Design Thinking, Kanban, Scrum). In 2019 I designed at <a href="http://www.simepar.br/" target="_blank">SIMEPAR</a> one of the workflows of the dam monitoring project in the state of Paraná-Brazil (front-end of technical form to collect information and data analysis pipeline using Python).
-<br /><br />
-I've got Developer certification from <a href="https://www.betrybe.com/" target="_blank">Trybe</a>'s Full Stack Web Development course. Trybe is a web development school focused on market demand: there are more than 1500 hours of training covering fundamentals of web development (<b>HTML, CSS, JavaScript, Git, Jest</b>), Front-end (<b>ReactJS, Redux, Context API</b>), Back-end (<b>MySQL, NodeJS, TypeScript, MongoDB</b>), Computer Science (<b>Python</b>), agile methods (Scrum, Kanban) and soft skills.
-<br /><br />
-In addition, in 2021 I integrated the 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering</a> (RAEng), a UK academy founded in 1976. "LIF is a training and mentoring course for leading technology entrepreneurs from Newton Fund partner countries. It is run by the RAEng in partnership with local organisations."
+• Bachelor in Mechanical Engineering at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>; visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a><br/>
+• 3 years of experience in Data Analysis and Web Development<br/>
+• Certification Full Stack Web Development from <a href="https://www.betrybe.com/" target="_blank">Trybe</a>;<br/>
+• Fellow LIF-7 RAEng ; 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering</a><br/>
  
  <br /> <br />
  
@@ -33,7 +32,6 @@ In addition, in 2021 I integrated the 7th cohort of the <a href="https://innovat
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&theme=dark&show_icons=true" height="180em" align="center" />
 </a>
-
 
 <!-- #### Technologies in which I'm continuously improving my skills: -->
 #### Continuous learning of technologies:
