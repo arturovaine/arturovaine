@@ -34,7 +34,7 @@
 </a>
 
 <!-- #### Technologies in which I'm continuously improving my skills: -->
-#### Continuous learning of technologies:
+#### Skills
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
