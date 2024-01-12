@@ -19,7 +19,7 @@
 <br />
 <b> Developer | Back-end & Data Analysis</b>
 <br /><br />
-• 4+ years of experience in Data Analysis and Web Development<br/>
+• 3+ years of experience in Data Analysis and Web Development<br/>
 • Certification Full Stack Web Development from <a href="https://www.betrybe.com/" target="_blank">Trybe</a><br/>
 • Bachelor in Mechanical Engineering at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>, visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a>, France<br/>
 • Fellow LIF-7 RAEng ; 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering (UK)</a><br/>
