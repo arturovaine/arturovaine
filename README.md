@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuchs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <br />
-<b> Developer | Back-end & Data Analysis</b>
+<b> Developer | Full Stack & Data Analysis</b>
 <br /><br />
 • Experienced in Web Development and Data Analysis<br/>
 • Certification Full Stack Web Development from <a href="https://www.betrybe.com/" target="_blank">Trybe</a><br/>
