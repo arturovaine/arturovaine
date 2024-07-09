@@ -24,6 +24,31 @@
 • Bachelor in Mechanical Engineering at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>, visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a>, France<br/>
 • Fellow LIF-7 RAEng ; 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering (UK)</a><br/>
  
+ <br /> 
+ Demos:
+
+### Corporate Home Page
+<!--
+[![Landing Page Video Background](https://github.com/arturovaine/landing-page-video-bg/blob/main/public/demo.gif)](https://github.com/arturovaine/landing-page-video-bg)
+-->
+<a href="https://github.com/arturovaine/landing-page-video-bg">
+    <img src="https://github.com/arturovaine/landing-page-video-bg/blob/main/public/demo.gif" alt="Landing Page Video Background" width=50%>
+</a>
+
+### E-commerce Mini CRUD App
+<!--
+[![CRUD App](https://raw.githubusercontent.com/arturovaine/crud_fullstack/main/app.gif "App CRUD")](https://github.com/arturovaine/crud_fullstack)
+-->
+<a href="https://github.com/arturovaine/landing-page-video-bg">
+    <img src="https://raw.githubusercontent.com/arturovaine/crud_fullstack/main/app.gif" alt="CRUD App" width=50%>
+</a>
+
+### Computer Vision App: Pose Estimator
+<a href="[https://github.com/arturovaine/landing-page-video-bg](https://github.com/arturovaine/arturovaine/blob/main/python-pose-estimator_.gif?raw=true)">
+    <img src="https://github.com/arturovaine/arturovaine/blob/main/python-pose-estimator_.gif?raw=true" alt="Pose Estimator" width=50%>
+</a>
+
+
  <br /> <br />
  
  <a href="https://github.com/anuraghazra/github-readme-stats">
