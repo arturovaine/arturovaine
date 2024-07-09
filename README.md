@@ -39,7 +39,7 @@
 <!--
 [![CRUD App](https://raw.githubusercontent.com/arturovaine/crud_fullstack/main/app.gif "App CRUD")](https://github.com/arturovaine/crud_fullstack)
 -->
-<a href="https://github.com/arturovaine/landing-page-video-bg">
+<a href="https://github.com/arturovaine/crud_fullstack">
     <img src="https://raw.githubusercontent.com/arturovaine/crud_fullstack/main/app.gif" alt="CRUD App" width=50%>
 </a>
 
