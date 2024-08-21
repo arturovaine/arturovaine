@@ -1,4 +1,4 @@
-## Software Developer
+## Software Developer 
 
 <div id="badges"><!--
   <a href="https://arturovaine.github.io/portfolio/" target="_blank">
