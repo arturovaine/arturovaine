@@ -1,16 +1,14 @@
 ## Software Developer 
 
-<div id="badges"><!--
-  <a href="https://arturovaine.github.io/portfolio/" target="_blank">
+  <a href="https://arturovaine.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-navy?style=for-the-badge&logo=Github&logoColor=white" alt="Portfolio Badge"/>
-  </a>-->
-   <a href="https://www.linkedin.com/in/arturovaine/" target="_blank">
+  </a><br/>
+<!--    <a href="https://www.linkedin.com/in/arturovaine/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a><br/>
   <a href="https://www.kaggle.com/arturovainecwb" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-</div>
+  </a> -->
 
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=samuelfuchs&theme=dark&background=000000)](https://git.io/streak-stats)
