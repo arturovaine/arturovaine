@@ -33,6 +33,15 @@
     <img src="https://github.com/arturovaine/landing-page-video-bg/blob/main/public/demo.gif" alt="Landing Page Video Background" width=50%>
 </a>
 
+### Tridimensional Fire Simulation (Three.js)
+<!--
+[![Landing Page Video Background](https://github.com/arturovaine/landing-page-video-bg/blob/main/public/demo.gif)](https://github.com/arturovaine/landing-page-video-bg)
+-->
+<a href="https://github.com/arturovaine/doom-fire-algorithm/tree/master/playground/threejs-3d-cube">
+    <img src="https://github.com/arturovaine/doom-fire-algorithm/raw/master/playground/threejs-3d-cube/animation.gif" alt="Fire simulation" width=50%>
+</a>
+
+
 ### E-commerce Mini CRUD App
 <!--
 [![CRUD App](https://raw.githubusercontent.com/arturovaine/crud_fullstack/main/app.gif "App CRUD")](https://github.com/arturovaine/crud_fullstack)
