@@ -22,30 +22,31 @@
 • Bachelor in Mechanical Engineering at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>, visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a>, France<br/>
 • Fellow LIF-7 RAEng ; 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering (UK)</a><br/>
  
+ <!--
  <br /> 
  Demos:
 
 ### Corporate Home Page
-<!--
+
 [![Landing Page Video Background](https://github.com/arturovaine/landing-page-video-bg/blob/main/public/demo.gif)](https://github.com/arturovaine/landing-page-video-bg)
--->
+
 <a href="https://github.com/arturovaine/landing-page-video-bg">
     <img src="https://github.com/arturovaine/landing-page-video-bg/blob/main/public/demo.gif" alt="Landing Page Video Background" width=50%>
 </a>
 
 ### Tridimensional Fire Simulation (Three.js)
-<!--
+
 [![Landing Page Video Background](https://github.com/arturovaine/landing-page-video-bg/blob/main/public/demo.gif)](https://github.com/arturovaine/landing-page-video-bg)
--->
+
 <a href="https://github.com/arturovaine/doom-fire-algorithm/tree/master/playground/threejs-3d-cube">
     <img src="https://github.com/arturovaine/doom-fire-algorithm/raw/master/playground/threejs-3d-cube/animation.gif" alt="Fire simulation" width=50%>
 </a>
 
 
 ### E-commerce Mini CRUD App
-<!--
+
 [![CRUD App](https://raw.githubusercontent.com/arturovaine/crud_fullstack/main/app.gif "App CRUD")](https://github.com/arturovaine/crud_fullstack)
--->
+
 <a href="https://github.com/arturovaine/crud_fullstack">
     <img src="https://raw.githubusercontent.com/arturovaine/crud_fullstack/main/app.gif" alt="CRUD App" width=50%>
 </a>
@@ -58,14 +59,18 @@
 
  <br /> <br />
  
- <!--<a href="https://github.com/anuraghazra/github-readme-stats">
+ <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=arturovaine&include_all_commits=false&count_private=true&layout=compact&theme=dark&show_icons=true" height="180em" align="center" />
-</a> -->
+</a>
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturovaine&layout=compact&theme=dark&show_icons=true" height="180em" align="center" />
 </a>
+-->
 
 <!-- #### Technologies in which I'm continuously improving my skills: -->
+
 #### Skills
 
 <div>
