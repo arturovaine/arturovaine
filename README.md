@@ -15,10 +15,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelfuchs&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <br />
-<b> Developer | Full Stack & Data Analysis</b>
+<b> Software Developer | Full Stack & Data Analysis</b>
 <br /><br />
-• Experienced in Web Development and Data Analysis<br/>
-• Certification Full Stack Web Development from <a href="https://www.betrybe.com/" target="_blank">Trybe</a><br/>
+ <!--• Experienced in Web Development and Data Analysis<br/>
+• Certification Full Stack Web Development from <a href="https://www.betrybe.com/" target="_blank">Trybe</a><br/>-->
+• Python ; JavaScript / TypeScript, Node.js, (SQL) MySQL, Postgres, (NoSQL) MongoDB, Firebase ; AWS, GCP
+<br /><br />
 • Bachelor in Mechanical Engineering at <a href="http://www.utfpr.edu.br/" target="_blank">UTFPR</a>, visiting student at <a href="https://www.insa-lyon.fr/en/" target="_blank">INSA de Lyon</a>, France<br/>
 • Fellow LIF-7 RAEng ; 7th cohort of the <a href="https://innovators.raeng.org.uk" target="_blank">LIF</a> program of the <a href="https://raeng.org.uk/" target="_blank">Royal Academy of Engineering (UK)</a><br/>
  
